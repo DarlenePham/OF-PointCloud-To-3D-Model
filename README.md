@@ -46,4 +46,5 @@ Besides quality, time is also one of the main considering factor. In order to sp
 - Advantage: Blended coloring, smooth reconstruction on curve and small details
 - Disadvanatge: Slow reconstruction time, unable to reconstruct area with less density of point cloud
 
-![pointview_high_poly](https://github.com/DarlenePham/OF-PointCloud-To-3D-Model/assets/57384176/d0329d75-24e9-4bbd-bd5d-f24b4e83eb14)
+![frontview_high_poly](https://github.com/DarlenePham/OF-PointCloud-To-3D-Model/assets/57384176/6e8a3aff-5207-4113-ae34-c7e6bfd5e5b5)
+
